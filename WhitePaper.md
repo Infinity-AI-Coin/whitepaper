@@ -1,4 +1,4 @@
-# Infitnity AI Coin 
+# Infinity AI Coin 
 
 ## Introduction
 
