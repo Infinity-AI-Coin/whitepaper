@@ -51,3 +51,7 @@ In order to keep a fair environment, one million tokens will be locked in a wall
 ### Insiders 
 
 Another One million tokens will be divided among 5 people we call "insiders". Each insider will receive 200,000 tokens and they will be chosen randomly. The insider strategy is to ask people to pariticipate in a small game on X (formerly twitter) and receive tokens just by chance. We do insider program this way to just make the community sure the majority will not be held by a single person or company. 
+
+### Liquidity
+
+The remaining 18,000,000 tokens will be listed on Ston.Fi (the famous decentralized exchange of TON Network) with an initial liquidity of 5 TONs.
