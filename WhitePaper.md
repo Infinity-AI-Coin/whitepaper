@@ -26,3 +26,7 @@ Since the year 2020, we're working in the AI space with many different ideas and
 Most of the above models, adapters and fine-tunes are accessible through [Mann-E](https://mann-e.com)'s website and the majority of the products are free to use. 
 
 ## Utility of The Token
+
+Since we believe in the power of community and we need encouragement to keep our projects open source and also our platform affordable to use, this coin has been made to be a form of investment on our work. Actually community contributes to our project by trading this coin and making it alive. 
+
+### Community Contribution
