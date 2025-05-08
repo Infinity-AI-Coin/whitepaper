@@ -39,3 +39,5 @@ In our vision the community will be contributing in two ways:
 ## Tokenomics
 
 ### Total supply 
+
+Infinity AI coin will have a total supply of 21,000,000 coins. The reason behind that is first this is the same as bitcoin and second, when we keep our supplies as limited as possible, the coin can get more valuable for holders, traders and insiders. 
