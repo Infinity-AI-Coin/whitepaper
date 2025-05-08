@@ -35,3 +35,5 @@ In our vision the community will be contributing in two ways:
 
 - Buying/Selling the coin 
 - Providing the liquidity 
+
+## Tokenomics
