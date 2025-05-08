@@ -25,6 +25,8 @@ Since the year 2020, we're working in the AI space with many different ideas and
 
 Most of the above models, adapters and fine-tunes are accessible through [Mann-E](https://mann-e.com)'s website and the majority of the products are free to use. 
 
+## Blockchain and Consensus
+
 ## Utility of The Token
 
 Since we believe in the power of community and we need encouragement to keep our projects open source and also our platform affordable to use, this coin has been made to be a form of investment on our work. Actually community contributes to our project by trading this coin and making it alive. 
@@ -41,3 +43,7 @@ In our vision the community will be contributing in two ways:
 ### Total supply 
 
 Infinity AI coin will have a total supply of 21,000,000 coins. The reason behind that is first this is the same as bitcoin and second, when we keep our supplies as limited as possible, the coin can get more valuable for holders, traders and insiders. 
+
+### Lock Up 
+
+In order to keep a fair environment, one million tokens will be locked in a wallet on TON network with the address of 
