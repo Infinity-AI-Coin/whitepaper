@@ -30,3 +30,8 @@ Most of the above models, adapters and fine-tunes are accessible through [Mann-E
 Since we believe in the power of community and we need encouragement to keep our projects open source and also our platform affordable to use, this coin has been made to be a form of investment on our work. Actually community contributes to our project by trading this coin and making it alive. 
 
 ### Community Contribution
+
+In our vision the community will be contributing in two ways: 
+
+- Buying/Selling the coin 
+- Providing the liquidity 
