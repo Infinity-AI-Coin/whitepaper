@@ -47,3 +47,7 @@ Infinity AI coin will have a total supply of 21,000,000 coins. The reason behind
 ### Lock Up 
 
 In order to keep a fair environment, one million tokens will be locked in a wallet on TON network with the address of UQCijPjf5tDu93k8-9XkrfnomCbGN0yOwzEEYAq9iA5ckuf2. Also the project's developer will hold one million tokens personally and avoids trading it for 90 days (or before the time the coin reaches $1m market cap.)
+
+### Insiders 
+
+Another One million tokens will be divided among 5 people we call "insiders". Each insider will receive 200,000 tokens and they will be chosen randomly. The insider strategy is to ask people to pariticipate in a small game on X (formerly twitter) and receive tokens just by chance. We do insider program this way to just make the community sure the majority will not be held by a single person or company. 
