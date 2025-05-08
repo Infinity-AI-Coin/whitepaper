@@ -9,3 +9,17 @@ We're doing our best to keep our products open source and affordable and this ne
 The following is a full coverage of our products, our history and tokenomics of Infinity AI Coin.
 
 ## Background and history
+
+Since the year 2020, we're working in the AI space with many different ideas and projects in different zones such as object detection, optical character recognition and since 2021, we switched to generative models with a focus on image generation and later, we switched to LLM development with focus on optimizing LLM's on Persian language. Currently, we have multiple products and one platform which lets people use all of them. 
+
+### Open Source Models 
+
+- [Mann-E](https://huggingface.co/mann-e)
+- [Musiqa (formerly known as Avasaz)](https://huggingface.co/avasaz)
+- [Maral](https://huggingface.co/MaralGPT)
+- [Sunsail AI (Partial Contribution)](https://huggingface.co/sunsailai)
+- [Aqua Regia's Xei models](https://ollama.com/haghiri/xei)
+- [Jabir Project](https://jabirproject.org)
+
+### The Platform 
+
