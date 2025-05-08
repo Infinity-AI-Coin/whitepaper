@@ -37,3 +37,5 @@ In our vision the community will be contributing in two ways:
 - Providing the liquidity 
 
 ## Tokenomics
+
+### Total supply 
