@@ -59,3 +59,5 @@ Another One million tokens will be divided among 5 people we call "insiders". Ea
 ### Liquidity
 
 The remaining 18,000,000 tokens will be listed on Ston.Fi (the famous decentralized exchange of TON Network) with an initial liquidity of 5 TONs.
+
+## Use of AI in process of making the coin
