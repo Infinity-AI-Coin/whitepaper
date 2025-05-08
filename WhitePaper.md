@@ -27,6 +27,10 @@ Most of the above models, adapters and fine-tunes are accessible through [Mann-E
 
 ## Blockchain and Consensus
 
+Infinity AI Coin will be launched on The Open Network, which is a blockchain made by famous messenger application Telegram. We chose TON as our platform since it is fast and affordable and also have a community as big as telegram behind it. 
+
+The Consensus algorithm is the same as TON, since we're just minting a token on this network. 
+
 ## Utility of The Token
 
 Since we believe in the power of community and we need encouragement to keep our projects open source and also our platform affordable to use, this coin has been made to be a form of investment on our work. Actually community contributes to our project by trading this coin and making it alive. 
