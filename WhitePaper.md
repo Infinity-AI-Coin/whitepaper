@@ -1,0 +1,3 @@
+# Infitnity AI Coin 
+
+## Introduction
