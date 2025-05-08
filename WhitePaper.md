@@ -61,3 +61,5 @@ Another One million tokens will be divided among 5 people we call "insiders". Ea
 The remaining 18,000,000 tokens will be listed on Ston.Fi (the famous decentralized exchange of TON Network) with an initial liquidity of 5 TONs.
 
 ## Use of AI in process of making the coin
+
+In process of making or miniting of the token AI isn't used. The token's logo is made using [Mann-E](https://mann-e.com)'s Gold model and in process of writing this white paper, we've got some help from platforms such as Claude or ChatGPT. 
